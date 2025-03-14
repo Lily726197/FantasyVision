@@ -1,4 +1,13 @@
+.body{
+    background-color: #D7E3F9;
+}
+
 h1, h2, p, a{
     text-align:center;
     padding:10px;
+    color:#4B4140;
+}
+
+.navbar{
+    background-color: #F96F53;
 }
